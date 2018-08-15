@@ -27,6 +27,7 @@ hbs.registerHelper('getCurrentYear', () => {
 });
 
 
+
 hbs.registerHelper('screamIt', (text) => {
   return text.toUpperCase();
 });
